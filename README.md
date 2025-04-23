@@ -1,1 +1,2 @@
 # Bookshop
+Sylwester Smoroński
