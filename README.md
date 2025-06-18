@@ -1,4 +1,5 @@
-Autor: Sylwester Smoroński<br />
+# Bookshop
+Sylwester Smoroński<br />
 
 ## Opis projektu
 
@@ -709,7 +710,3 @@ Pozwala to na dynamiczne raportowanie i proste, parametryzowane kwerendy, które
     -   Używanie protokołu HTTPS.
     -   Zabezpieczenie ciasteczek sesyjnych (flagi `HttpOnly`, `Secure`).
     -   Implementacja mechanizmów ograniczających liczbę zapytań (`rate-limiting`).
-
-# Bookshop
-Sylwester Smoroński
-
